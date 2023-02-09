@@ -20,13 +20,8 @@ _Ensure that you change the `.gitignore` file so that `admin/docs/data` are not 
 
 ```
 
-# Rendered reports
-admin/*.html
-admin/*.docx
-admin/*.pdf
-docs/*.html
-docs/*.docx
-docs/*.pdf
 data
+admin
+docs
 
 ```

@@ -15,6 +15,14 @@
 # RStudio
 .Rproj.user
 
+# Rendered reports
+admin/*.html
+admin/*.docx
+admin/*.pdf
+docs/*.html
+docs/*.docx
+docs/*.pdf
+
 #################
 ## Visual Studio
 #################
